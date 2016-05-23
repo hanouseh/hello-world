@@ -1,3 +1,3 @@
 # hello-world
-My first hello world repo
-This is a my first trial
+My first hello world repository.
+This is a my first trial.
